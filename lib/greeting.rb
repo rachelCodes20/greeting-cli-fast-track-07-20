@@ -8,4 +8,4 @@ greeting("name")
  
 
 def greeting(name)
-  puts
+  puts "Hi! I'm HAL, what's your name?"
