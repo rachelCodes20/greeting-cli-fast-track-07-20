@@ -7,3 +7,5 @@ greeting("name")
 
  
 
+def greeting(name)
+  puts
