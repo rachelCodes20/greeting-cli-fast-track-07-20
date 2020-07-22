@@ -10,7 +10,7 @@ greeting("name")
 def greeting()
   
   name = gets.strip
-  puts "Hi! I'm HAL, what's your name?"
+  puts "Hi! I'm #{HAL}, what's your name?"
 end
-  greeting(name)
+  greeting("HAL")
   
